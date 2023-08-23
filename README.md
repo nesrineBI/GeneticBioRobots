@@ -1,5 +1,4 @@
-# IAR_PROJECT
-IAR_Projet  This project is an implementation of  experiences  of the paper called  "Biology inspired robot behaviour selection mechanism", 2007, by Wang et al.  
+This project is an implementation of  experiences  of the paper called  "Biology inspired robot behaviour selection mechanism", 2007, by Wang et al.  
 # files  
 - **exp1_scpm.py** main script to have the scpm results of fig3 of the article
 - **exp1_dipm.py** main script to have the dipm results of fig3 of the article
